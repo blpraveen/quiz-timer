@@ -1,6 +1,10 @@
 # quiz-timer
 Quiz Timer
 
+##Commit Log
+
+initial commit - created on 28-11-2015
+
 ##DEMO 
 
 See the [demo](http://jsfiddle.net/Bl_praveen2004/r04bpe0q/) here.
